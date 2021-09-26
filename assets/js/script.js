@@ -56,8 +56,6 @@ $(document).ready(function() {
 
             var hr17 = document.getElementById('17').value;
             localStorage.setItem('text17', hr17);
-
-            
             
         });
     }
