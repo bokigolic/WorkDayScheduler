@@ -10,5 +10,5 @@ Gives option tu input and save events for each day in hours range
     jQuery
     Moment.js
 
-##author
+## author
 Bojan Golic
